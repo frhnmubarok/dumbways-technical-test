@@ -9,7 +9,7 @@ VALUES
 ('INI ADALAH CONTOH CONTENT STEVEN','content_steven.jpg', 1),
 ('INI ADALAH CONTOH CONTENT BAMBANG','content_bambang.jpg', 3);
 
-INSERT INTO users_tb (name,photo,email,password)
+INSERT INTO users_tb (name, photo, email, password)
 VALUES
 ('Steven', 'steven.jpg', 'steven@email.com', 'steven123'),
 ('Yanto', 'yanto.jpg', 'yanto@email.com', 'yanto123'),
